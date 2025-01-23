@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://tranding-topik.github.io/news/sitemap.xml
